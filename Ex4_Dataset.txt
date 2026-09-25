@@ -1,0 +1,7 @@
+Artificial intelligence enables machines to perform tasks that normally require human intelligence.
+Machine learning allows computers to learn patterns from data and make predictions.
+Generative AI can create new content such as text, images, audio, and code.
+Retrieval Augmented Generation combines information retrieval with a language model.
+Embeddings represent text as numerical vectors so that similar meanings can be compared.
+Semantic search finds relevant information based on meaning rather than exact keywords.
+FAISS is a library used for efficient similarity search of vector embeddings.
